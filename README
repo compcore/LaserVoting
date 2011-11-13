@@ -1,0 +1,7 @@
+LaserVoting is Python code to detect laser spots in a camera and send data over OSC (OpenSoundControl).
+It works with any number of laser pointers, computing an average spot location to transmit.
+The screen is divided into regions, and the counts and centroids with each region sent to
+and OSC receiver over UDP. This was written in Python 2.7.1+, and uses
+OpenCV 2.3.1′s Python bindings, and
+pyOSC 0.3.5b-5294 from http://trac.v2.nl/wiki/pyOSC
+and numpy.
