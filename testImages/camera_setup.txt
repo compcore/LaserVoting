@@ -1,0 +1,10 @@
+fps=15 fps
+sync_control=0
+Brightness=304
+Auto exposure=511
+Sharpness=80
+White balance=0
+Saturation=90
+Gamma=1
+Shutter=6
+Gain=87
